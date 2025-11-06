@@ -1,0 +1,224 @@
+[
+  {
+    "id": "shilajit-premium-50g",
+    "name": "Premium Himalayan Shilajit",
+    "category": "shilajit",
+    "description": "Pure Himalayan Shilajit sourced from high-altitude rocks, rich in fulvic acid and 85+ minerals. Lab-tested for purity and potency.",
+    "price": 2999,
+    "originalPrice": 3999,
+    "image": "/images/shilajit-premium.jpg",
+    "featured": true,
+    "inStock": true,
+    "weight": "50g",
+    "benefits": [
+      "Boosts energy and stamina",
+      "Enhances cognitive function",
+      "Supports immune system",
+      "Rich in fulvic acid"
+    ],
+    "tags": ["premium", "organic", "tested"]
+  },
+  {
+    "id": "shilajit-gold-30g",
+    "name": "Gold-Infused Shilajit Resin",
+    "category": "shilajit",
+    "description": "Authentic shilajit resin enhanced with pure gold particles for maximum bioavailability. Traditional Ayurvedic formulation.",
+    "price": 4999,
+    "originalPrice": 6499,
+    "image": "/images/shilajit-gold.jpg",
+    "featured": true,
+    "inStock": true,
+    "weight": "30g",
+    "benefits": [
+      "Gold-enhanced absorption",
+      "Rejuvenates tissues",
+      "Anti-aging properties",
+      "Increases vitality"
+    ],
+    "tags": ["luxury", "gold", "ayurvedic"]
+  },
+  {
+    "id": "saffron-kashmiri-5g",
+    "name": "Kashmiri Saffron Threads",
+    "category": "saffron",
+    "description": "Grade A Kashmiri saffron threads, hand-picked from the finest crocus flowers. Deep crimson color with intense aroma.",
+    "price": 1499,
+    "originalPrice": 1999,
+    "image": "/images/saffron-kashmiri.jpg",
+    "featured": true,
+    "inStock": true,
+    "weight": "5g",
+    "benefits": [
+      "Rich antioxidants",
+      "Mood enhancement",
+      "Skin radiance",
+      "Digestive support"
+    ],
+    "tags": ["kashmiri", "premium", "aromatic"]
+  },
+  {
+    "id": "saffron-irani-10g",
+    "name": "Persian Saffron Premium",
+    "category": "saffron",
+    "description": "Authentic Persian saffron from Iran's renowned saffron fields. ISO certified with maximum crocin content.",
+    "price": 2499,
+    "image": "/images/saffron-persian.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "10g",
+    "benefits": [
+      "Highest crocin levels",
+      "Memory enhancement",
+      "Heart health",
+      "Premium quality"
+    ],
+    "tags": ["persian", "iso-certified", "premium"]
+  },
+  {
+    "id": "almonds-premium-500g",
+    "name": "California Almonds",
+    "category": "dry-fruits",
+    "description": "Premium California almonds, naturally sweet with crunchy texture. Rich in protein and healthy fats.",
+    "price": 899,
+    "originalPrice": 1199,
+    "image": "/images/almonds.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "500g",
+    "benefits": [
+      "High protein content",
+      "Heart-healthy fats",
+      "Vitamin E rich",
+      "Energy booster"
+    ],
+    "tags": ["california", "crunchy", "protein"]
+  },
+  {
+    "id": "walnuts-kashmiri-500g",
+    "name": "Kashmiri Walnuts",
+    "category": "dry-fruits",
+    "description": "Premium Kashmiri walnuts with thin shells and meaty kernels. Rich in omega-3 fatty acids.",
+    "price": 1299,
+    "image": "/images/walnuts.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "500g",
+    "benefits": [
+      "Omega-3 rich",
+      "Brain health",
+      "Anti-inflammatory",
+      "Meaty texture"
+    ],
+    "tags": ["kashmiri", "omega-3", "organic"]
+  },
+  {
+    "id": "cashews-jumbo-500g",
+    "name": "Jumbo Cashew Nuts",
+    "category": "dry-fruits",
+    "description": "Extra-large cashew nuts from Kerala's finest plantations. Creamy, buttery taste and premium grade.",
+    "price": 1099,
+    "originalPrice": 1399,
+    "image": "/images/cashews.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "500g",
+    "benefits": [
+      "Magnesium rich",
+      "Heart health",
+      "Weight management",
+      "Creamy texture"
+    ],
+    "tags": ["jumbo", "kerala", "buttery"]
+  },
+  {
+    "id": "pistachios-premium-250g",
+    "name": "Premium Pistachios",
+    "category": "dry-fruits",
+    "description": "Roasted and lightly salted pistachios from California. Natural green kernels with exceptional taste.",
+    "price": 799,
+    "image": "/images/pistachios.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "250g",
+    "benefits": [
+      "Antioxidant rich",
+      "Eye health",
+      "Protein source",
+      "Satisfying crunch"
+    ],
+    "tags": ["roasted", "california", "salted"]
+  },
+  {
+    "id": "dates-medjool-500g",
+    "name": "Medjool Dates Premium",
+    "category": "dry-fruits",
+    "description": "Large, soft Medjool dates with caramel-like sweetness. Natural energy source and fiber-rich.",
+    "price": 699,
+    "image": "/images/dates.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "500g",
+    "benefits": [
+      "Natural sweetness",
+      "High fiber",
+      "Energy boost",
+      "Digestive health"
+    ],
+    "tags": ["medjool", "soft", "natural"]
+  },
+  {
+    "id": "raisins-golden-500g",
+    "name": "Golden Raisins",
+    "category": "dry-fruits",
+    "description": "Sweet golden raisins from premium vineyards. Naturally sun-dried without added sugars.",
+    "price": 499,
+    "image": "/images/raisins.jpg",
+    "featured": false,
+    "inStock": true,
+    "weight": "500g",
+    "benefits": [
+      "Iron rich",
+      "Natural sweetness",
+      "Digestive aid",
+      "Energy source"
+    ],
+    "tags": ["golden", "sun-dried", "sweet"]
+  },
+  {
+    "id": "figs-dried-250g",
+    "name": "Turkish Dried Figs",
+    "category": "dry-fruits",
+    "description": "Premium Turkish figs, naturally sweet and tender. Rich in minerals and dietary fiber.",
+    "price": 599,
+    "image": "/images/figs.jpg",
+    "featured": false,
+    "inStock": false,
+    "weight": "250g",
+    "benefits": [
+      "Calcium rich",
+      "Digestive health",
+      "Natural sweetness",
+      "Tender texture"
+    ],
+    "tags": ["turkish", "tender", "mineral-rich"]
+  },
+  {
+    "id": "mixed-nuts-premium-1kg",
+    "name": "Premium Mixed Nuts",
+    "category": "dry-fruits",
+    "description": "Carefully curated mix of almonds, cashews, walnuts, and pistachios. Perfect for healthy snacking.",
+    "price": 1799,
+    "originalPrice": 2199,
+    "image": "/images/mixed-nuts.jpg",
+    "featured": true,
+    "inStock": true,
+    "weight": "1kg",
+    "benefits": [
+      "Variety of nutrients",
+      "Heart health",
+      "Convenient snacking",
+      "Premium selection"
+    ],
+    "tags": ["mixed", "variety", "premium"]
+  }
+]
